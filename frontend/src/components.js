@@ -499,7 +499,7 @@ export const HeroSection = ({ onStartLearning }) => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://raw.githubusercontent.com/plovEgp/syur/refs/heads/main/WhatsApp%20Image%202025-09-26%20at%2014.02.53.jpeg"
+                src="https://raw.githubusercontent.com/sunduksuar/suar/refs/heads/main/WhatsApp%20Image%202025-09-26%20at%2014.02.53%20(1).png"
                 alt="Красивая мечеть на закате"
                 className="w-full h-96 object-cover rounded-2xl shadow-2xl"
               />
